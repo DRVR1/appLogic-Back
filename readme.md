@@ -1,4 +1,4 @@
-# Sistema de adlogic
+# AppLogic
 
 ## Descripcion
 
