@@ -4,6 +4,12 @@
 
 Aplicacion web que permite subir aplicaciones para android, con distintas versiones para cada aplicacion. Contienen titulo, descripcion, imagen, arquitectura, links de descarga, y distintas versiones para cada aplicacion. Tambien, cada aplicacion se puede calificar y comentar. Se admite un maximo de 3 comentarios por direccion IP que visite la pagina. El proyecto de react está embebido dentro del backend por lo que correrlo en docker ya es suficiente, es decir, no hay que correr el front por separado.
 
+# Screenshots
+![image](https://github.com/user-attachments/assets/448e16f5-55f3-4125-8e34-8b025cb19012)
+![image](https://github.com/user-attachments/assets/d4454d72-a3f1-4a91-b2a7-588f405cc462)
+![image](https://github.com/user-attachments/assets/4b44858d-062d-4862-a1d0-279a16421159)
+
+
 ## Correr el proyecto usando docker
 
 ### Requerimientos:
