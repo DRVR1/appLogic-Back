@@ -21,7 +21,7 @@ Aplicacion web que permite subir aplicaciones para android, con distintas versio
 Posicionarse en la carpeta del proyecto clonado y ejecutar los siguientes comandos:
 
 
-`docker build -t adlogic .` (debe ser el nombre de la imagen en dockerfile)
+`docker build -t applogic .` (debe ser el nombre de la imagen en dockerfile)
 
 ### Una vez se hayan creado las imagenes, en la carpeta raiz del proyecto ejecutar:
   
