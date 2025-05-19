@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-N/a
+Aplicacion web que permite subir aplicaciones para android, con distintas versiones para cada aplicacion. Contienen titulo, descripcion, imagen, arquitectura, links de descarga, y distintas versiones para cada aplicacion. Tambien, cada aplicacion se puede calificar y comentar. Se admite un maximo de 3 comentarios por direccion IP que visite la pagina.
 
 ## Correr el proyecto usando docker
 
@@ -22,7 +22,7 @@ Posicionarse en la carpeta del proyecto clonado y ejecutar los siguientes comand
 `docker-compose up -d` (descarga la base de datos, configura las variables de entorno, usuario, contraseña, puertos y ejecuta el back y la base de datos)
 
 ### Listo
-#### Ya deberia estar funcionando el sistema en localhost:8080 y en la red lan. 192.168.X.X:8080. Tambien se puede acceder a la base de datos por separado usando algun administrador como adminer. Las credenciales, puerto y host estan en docker-compose.yml
+#### Ya deberia estar funcionando el sistema en localhost:8080 y en la red lan. 192.168.X.X:8080. Tambien se puede acceder a la base de datos por separado usando algun administrador como adminer, dbeaver, etc. Las credenciales, puerto y host estan en docker-compose.yml
 
 ### Comandos utiles (no obligatorios): 
 
